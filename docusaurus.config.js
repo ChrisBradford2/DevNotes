@@ -56,7 +56,7 @@ const config = {
             label: 'Cours',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/about-us', label: 'About Us', position: 'left'},
+          {to: '/contrib', label: 'Contribution', position: 'left'},
           {
             href: 'https://github.com/ChrisBradford2/test-docusaurus',
             label: 'GitHub',
