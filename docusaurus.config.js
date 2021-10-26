@@ -10,7 +10,7 @@ const config = {
   tagline: 'La librairie des cours des B3 INGLOG',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ChrisBradford2', // Usually your GitHub org/user name.
