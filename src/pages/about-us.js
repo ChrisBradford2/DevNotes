@@ -1,11 +1,23 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 
-export default function AboutUs() {
+function Hello() {
   return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
+    <Layout title="Hello">
+      <div
+        style={{
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          height: '50vh',
+          fontSize: '20px',
+        }}>
+        <p>
+          Edit <code>pages/about-us.js</code> and save to reload.
+        </p>
+      </div>
     </Layout>
   );
 }
+
+export default Hello;
