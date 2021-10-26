@@ -1,6 +1,6 @@
 {
-  "name": "integration-continue",
-  "version": "0.0.0",
+  "name": "devnotes",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
