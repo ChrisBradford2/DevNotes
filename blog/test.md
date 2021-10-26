@@ -12,7 +12,6 @@ authors:
     url: https://sebastienlorber.com
     image_url: https://github.com/slorber.png
 tags: [hello, docusaurus-v2]
-image: https://i.imgur.com/mErPwqL.png
 hide_table_of_contents: false
 ---
 Welcome to this blog. This blog is created with [**Docusaurus 2**](https://docusaurus.io/).
