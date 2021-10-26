@@ -4,12 +4,11 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Propulsé par Markdown',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Écrivez simplement des docs et des articles de blog avec Markdown/MDX et Docusaurus publiera un ensemble de fichiers HTML statiques prêts à déployer. Vous pouvez même intégrer des composants JSX dans votre Markdown grâce à MDX.
       </>
     ),
   },
@@ -24,12 +23,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Construit avec React',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Docusaurus peut être étendu en réutilisant le même entête et le même pied de page.
       </>
     ),
   },

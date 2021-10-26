@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'B3 Dev',
-  tagline: 'Dinosaurs are cool, but coffee is better !',
+  title: 'DevNotes',
+  tagline: 'La librairie des cours des B3 INGLOG',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'ChrisBradford2', // Usually your GitHub org/user name.
   projectName: 'test-docusaurus', // Usually your repo name.
+  noIndex: true, // Par défaut, `false`
 
   presets: [
     [
@@ -43,7 +44,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'B3 Dev',
+        title: 'DevNotes',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -79,8 +80,8 @@ const config = {
                 to: '/blog/',
               },
               {
-                label: 'About Us',
-                to: '/about-us',
+                label: 'Contribution',
+                to: '/contrib',
               },
             ],
           },
@@ -88,34 +89,30 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'GitHub',
+                href: 'https://github.com/ChrisBradford2/DevNotes',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://discord.gg/Gaj57Br',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Un problème ?',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Ouvrir un ticket',
+                href: 'https://github.com/ChrisBradford2/DevNotes/issues/new',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Nous contacter',
+                href: 'mailto:contact@convergence-of-paprika.com',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Cours Ynov. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} DevNotes. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
