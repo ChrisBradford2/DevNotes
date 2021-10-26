@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Premier pas
 
-<iframe src="https://discord.com/widget?id=902604735700430928&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
