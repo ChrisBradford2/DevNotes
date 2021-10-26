@@ -117,12 +117,12 @@ const config = {
               },
               {
                 label: 'Discord',
-                href: 'https://discord.gg/Gaj57Br',
+                href: 'https://discord.gg/vcCgkDxnbB',
               },
             ],
           },
           {
-            title: 'Un problème ?',
+            title: 'A propos',
             items: [
               {
                 label: 'Ouvrir un ticket',
