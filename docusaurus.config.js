@@ -17,13 +17,29 @@ const config = {
   projectName: 'test-docusaurus', // Usually your repo name.
   noIndex: true, // Par défaut, `false`
 
+  /*plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'contrib',
+        path: 'contrib',
+        routeBasePath: 'contrib',
+        sidebarPath: require.resolve('./contrib/sidebars.js'),
+      }, 
+    ],
+],*/
+
   presets: [
     [
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: 'docs',
+          path: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
+          lastVersion: 'current',
+          onlyIncludeVersions: ['current'],
           // Please change this to your repo.
           editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
         },
@@ -33,6 +49,13 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/edit/main/website/blog/',
         },
+        /*contrib: {
+          path: 'contrib',
+          sidebarPath : require.resolve('./contrib/sidebars.js'),
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+        },*/
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
