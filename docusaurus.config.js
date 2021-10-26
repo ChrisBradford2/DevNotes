@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Test Docusaurus',
+  title: 'B3 Dev',
   tagline: 'Dinosaurs are cool, but coffee is better !',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'B3 Dev',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -56,6 +56,7 @@ const config = {
             label: 'Cours',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/about-us', label: 'About Us', position: 'left'},
           {
             href: 'https://github.com/ChrisBradford2/test-docusaurus',
             label: 'GitHub',
@@ -70,8 +71,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Cours',
+                to: '/docs/',
+              },
+              {
+                label: 'Blog',
+                to: '/blog/',
+              },
+              {
+                label: 'About Us',
+                to: '/about-us',
               },
             ],
           },
@@ -106,7 +115,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Cours Ynov. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
