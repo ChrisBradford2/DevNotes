@@ -1,11 +1,7 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
+authors: [Nicolas, Alexandre]
 ---
 
 Proposer vos Documentation !
-
-
-
-
