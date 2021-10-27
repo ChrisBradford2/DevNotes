@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`Bienvenue sur ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="DevNotes est une plateforme web faisant office de Wiki pour le bachelor 3 INGLOG du Campus Paris Ynov permettant de visualiser les notes de cours des étudiants.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
