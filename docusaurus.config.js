@@ -86,7 +86,7 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/contrib', label: 'Contribution', position: 'left'},
           {
-            href: 'https://github.com/ChrisBradford2/test-docusaurus',
+            href: 'https://github.com/ChrisBradford2/DevNotes',
             label: 'GitHub',
             position: 'right',
           },
