@@ -340,6 +340,6 @@ As soon as you have opened a pull request for the content, link the issue to thi
 
 <!--![image](https://user-images.githubusercontent.com/77154511/126052695-7b28f4c5-da09-4492-86e0-c5e4009862b0.png)-->
 
-## Congratulations! You’re all done!
+## Félicitations ! Vous avez terminé !
 
-Enjoy contributing and if you have any questions or ideas send us an issue!
+Bonne contribution et si vous avez des questions ou des idées, envoyez-nous un ticket !
