@@ -1,6 +1,10 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
+function alertTwitter() {
+  alert("Hello\nHow are you?");
+}
+
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -112,12 +116,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/ChrisBradford2/DevNotes',
+                label: 'GitHub Discussions',
+                href: 'https://github.com/ChrisBradford2/DevNotes/discussions',
               },
               {
                 label: 'Discord',
                 href: 'https://discord.gg/vcCgkDxnbB',
+              },
+              {
+                label: 'Twitter (à venir)',
+                href: '/',
               },
             ],
           },
@@ -129,13 +137,20 @@ const config = {
                 href: 'https://github.com/ChrisBradford2/DevNotes/issues/new',
               },
               {
-                label: 'Nous contacter',
-                href: 'mailto:contact@convergence-of-paprika.com',
+                label: 'MIT licensed',
+                href: 'https://github.com/ChrisBradford2/DevNotes/blob/main/LICENSE',
               },
+              {
+                html: `
+                <a href="https://pages.github.com/" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Github Pages">
+                  <img src="/static/img//maxresdefault-base.jpg" alt="Deploys by Github Pages" />
+                </a>
+              `,
+              }
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DevNotes. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} DevNotes. Built with Docusaurus. Deploy by Travis CI. Hosted by Github Pages.`,
       },
       prism: {
         theme: lightCodeTheme,
