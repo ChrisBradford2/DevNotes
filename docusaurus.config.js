@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DevNotes',
-  tagline: 'La librairie des cours des B3 INGLOG',
+  tagline: 'Le Wiki des cours des B3 INGLOG',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
