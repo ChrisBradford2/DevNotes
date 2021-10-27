@@ -114,7 +114,7 @@ Nous encourageons tous ceux qui ont une connaissance dans les modules étudiés 
 
 Merci! ❤️
 
-#### La stratégie de contenu
+<!--#### La stratégie de contenu
 
 The general menu structure of the WIKI website can be found in this Google shhet - you will see which content is still open to produce and clicking on the Link of the cell will directly open the content page in HitHub - Status of Work in Progress is currently this:
 
@@ -128,15 +128,15 @@ We aim to deliver basic introduction content on the pages and whenever possible 
 
 But if you feel that the available information is insufficient, outdated, or too complex to understand for normal users, we are happy about detailed understandable content about a topic. As IOTA has been moving fast forward this might be the situation in many fields of the project atm.
 
-We decided to split the WIKI into 4 major thematic areas that focus on the user/reader and the needs of those who visit the Wiki and we aim to deliver tailored content for that user group.
+We decided to split the WIKI into 4 major thematic areas that focus on the user/reader and the needs of those who visit the Wiki and we aim to deliver tailored content for that user group.-->
 
-#### Learn
+#### Apprendre
 
-The Learn section aims to describe most of IOTAs core functions and technology. Content should be explained understandably for normal random users that have no, or just a small knowledge about IOTA. We want to welcome interested people and show them the way into understanding IOTA and get fascinated about it. Perfect would be if we could provide also links to external sources that deliver further detailed content in different levels of complexity. Also welcome to link to an IF YouTube video.
+La section Apprendre vise à décrire la plupart des fonctions de DevNotes. Le contenu doit être expliqué de manière compréhensible pour les utilisateurs aléatoires normaux qui n'ont pas, ou juste une petite connaissance de DevNotes. Nous voulons accueillir les personnes intéressées et leur montrer le chemin pour comprendre DevNotes et être fasciné par lui. L'idéal serait de pouvoir fournir des liens vers des sources externes qui offrent un contenu plus détaillé à différents niveaux de complexité.
 
-As we know the protocol has changed a lot and quickly we might not find up-to-date information, so we will write it ourselves.
+Comme nous le savons, le protocole a beaucoup changé et il se peut que nous ne trouvions pas rapidement des informations à jour, nous allons donc les écrire nous-mêmes.
 
-#### Use
+<!--#### Utilisation
 
 Content for people that may be looking to use IOTA in their project / Company / Industry. Showcase of all the possibilities the protocol delivers, the several technologies developed for use cases. Explain and provide useful links to lead the reader into the project.
 
@@ -148,7 +148,7 @@ Collect general info and link to Guides / POC's / Showcases / IF community sites
 
 #### Develop
 
-The gateway for Developers. Introduces the core functionalities on a more technical level and aims to bring developers directly into the correct framework for them to start working with IOTA. Also, deliver guides and tools that help to get started and to understand the concepts behind the protocol. This section will directly link to the underlying IOTA Docs and GitHub, so please provide correct links to the specific content in the IOTA Docs.
+The gateway for Developers. Introduces the core functionalities on a more technical level and aims to bring developers directly into the correct framework for them to start working with IOTA. Also, deliver guides and tools that help to get started and to understand the concepts behind the protocol. This section will directly link to the underlying IOTA Docs and GitHub, so please provide correct links to the specific content in the IOTA Docs.-->
 
 #### Adding content
 
@@ -156,7 +156,7 @@ To add content to a page, you can use the implemented in-page editor. This will 
 
 We don't ask for perfection from everyone - it is a community-driven project and will grow and get better all the time, but we may have to change some things as we aim for a similar language and style throughout the whole website. This should give the readers the feeling that it is coming out of one source. So we will contact you on your GitHub account or comment directly in the Pull Request.
 
-You can also create content directly in GitHub by forking the **`main`** branch and start editing the pages you wish to contribute. The Page documents will be found under https://github.com/iota-community/iota-wiki/tree/main/docs
+You can also create content directly in GitHub by forking the **`main`** branch and start editing the pages you wish to contribute.
 
 To edit a document, click the pencil (edit this file) in the top right corner when viewing in GitHub.
 
@@ -206,12 +206,11 @@ To add a link to a page we use square brackets to contain the link text followed
 
 To add an image to a page, we first need to upload the page to the image folder]
 Then on our page we can add the image using the same method as a link preceded with an exclamation mark:
-<!--`![image text](https://image.link/here.jpg)`-->
+`![image text](https://image.link/here.jpg)`
 
 ##### Image Links
 
-To make an image a link, we can combine the two methods, by putting the link within the text section of the image code:
-<!--`[![Here is an example image](https://example.com/image.jpg)](https://example.com)`-->
+To make an image a link, we can combine the two methods, by putting the link within the text section of the image code: `[![Here is an example image](https://example.com/image.jpg)](https://example.com)`
 
 ##### Lists
 
@@ -271,11 +270,11 @@ Once you have completed your contribution goes to the bottom of the edit page to
 
 To keep our WIKI Project organized and help everyone understand the current state of work that's going on, we decided to use a Kanban Style Project Board. Everything related to content creation should be represented in this board. You will find it under the projects tab:
 
-https://github.com/iota-community/iota-wiki/projects
+https://github.com/ChrisBradford2/DevNotes/projects/2
 
-<!--![image](https://user-images.githubusercontent.com/77154511/126052298-4c8fbb3f-cb39-41d5-93d4-13c3b4e4626d.png)-->
+![image](../../static/img/contrib/projet_board.png)
 
-In the board, we have created 5 fields that represent the life cycle of a content page till completion.
+In the board, we have created 3 fields that represent the life cycle of a content page till completion.
 
 **To do**
 
@@ -285,23 +284,23 @@ Here are all pages that have not yet been started to work on. Pick the card of t
 
 Content that is currently been worked on by someone. As long as you are working and editing a page, leave the card here.
 
-**Ready for Review**
+<!--**Ready for Review**
 
 As soon as you would be happy to receive a review of your work move the card here and open a Pull Request in "Draft" status. Request a review from one of the maintainers in your Pull Request or just ask in Discord for Feedback
 
 **add all links/content, ready for publishing**
 
-While your written content might be finished, the graphics, images or links to outside content or other Wiki pages might still need some fixing or contribution.
+While your written content might be finished, the graphics, images or links to outside content or other Wiki pages might still need some fixing or contribution.-->
 
-**Complete**
+**Done**
 
 Content pages have been finalized and are ready to publish, Pull Request closed. Page can be added "as is" in the final Wiki version
 
 <!--![image](https://user-images.githubusercontent.com/77154511/126052466-d110127f-965a-456c-bfac-d2d52a63d043.png)-->
 
-**Convert to issue**
+<!--**Convert to issue**
 
-Every card in the Kanban can be converted into an open issue. You should use this feature. We can all work much better if we see which issues are currently open and which ones are closed and it helps us all to stay organized.
+Every card in the Kanban can be converted into an open issue. You should use this feature. We can all work much better if we see which issues are currently open and which ones are closed and it helps us all to stay organized.-->
 
 <!--![image](https://user-images.githubusercontent.com/77154511/126052529-ddc9f83c-9c53-46eb-9e8c-1033d42fab14.png)-->
 
