@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ChrisBradford2', // Usually your GitHub org/user name.
-  projectName: 'test-docusaurus', // Usually your repo name.
+  projectName: 'DevNotes', // Usually your repo name.
   noIndex: true, // Par défaut, `false`
 
   /*plugins: [
