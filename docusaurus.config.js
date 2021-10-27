@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DevNotes',
   tagline: 'Le Wiki des cours des B3 INGLOG',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://chrisbradford2.github.io/DevNotes/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
