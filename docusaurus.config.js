@@ -143,7 +143,7 @@ const config = {
               {
                 html: `
                 <a href="https://pages.github.com/" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Github Pages">
-                  <img src="/static/img/maxresdefault-base.jpg" alt="Deploys by Github Pages" />
+                  <img src="https://raw.githubusercontent.com/ChrisBradford2/DevNotes/dev/static/img/maxresdefault-base.jpg" alt="Deploys by Github Pages" />
                 </a>
               `,
               }
