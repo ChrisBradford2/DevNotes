@@ -21,22 +21,35 @@ Pour contribuer au wiki des **Bachelor 3 INGLOG**, vous pouvez :
 
 <br/>
 
-Cette section vous guide pour signaler un bug. Suivre ces directives aide les mainteneurs et la communauté à comprendre le bug, à reproduire le comportement et à trouver des bugs apparentés.
+Cette section vous guide pour signaler un bug. Suivre ces directives aide les
+mainteneurs et la communauté à comprendre le bug, à reproduire le comportement
+et à trouver des bugs apparentés.
 
 ### Avant de signaler un bug
 
 Veuillez consulter la liste suivante :
 
-- **Assurez-vous que le bug n'a pas déjà été signalé** en cherchant sur GitHub sous [**Issues**](https://github.com/ChrisBradford2/DevNotes/issues). Si le bug a déjà été signalé **et que le problème est toujours ouvert**, ajoutez un commentaire au problème existant au lieu d'en ouvrir un nouveau.
+- **Assurez-vous que le bug n'a pas déjà été signalé** en cherchant sur GitHub
+  sous [**Issues**](https://github.com/ChrisBradford2/DevNotes/issues). Si le
+  bug a déjà été signalé **et que le problème est toujours ouvert**, ajoutez un
+  commentaire au problème existant au lieu d'en ouvrir un nouveau.
 
-**Remarque:** Si vous trouvez un problème **Closed** qui semble similaire à ce que vous rencontrez, ouvrez un nouveau ticket et incluez un lien vers le ticket original dans le corps de votre nouveau ticket.
+**Remarque:** Si vous trouvez un problème **Closed** qui semble similaire à ce
+que vous rencontrez, ouvrez un nouveau ticket et incluez un lien vers le ticket
+original dans le corps de votre nouveau ticket.
+
 ### Soumettre un rapport de bug.
 
-Pour signaler un bug, [ouvrez un nouveau ticket](https://github.com/ChrisBradford2/DevNotes/issues/new/choose), et assurez-vous d'inclure autant de détails que possible, en utilisant la template **Bug Report**.
+Pour signaler un bug,
+[ouvrez un nouveau ticket](https://github.com/ChrisBradford2/DevNotes/issues/new/choose),
+et assurez-vous d'inclure autant de détails que possible, en utilisant la
+template **Bug Report**.
 
-**Remarque:** Les modifications mineures, comme la correction d'une Typo, peuvent faire l'objet d'un ticket ouvert, mais n'en ont pas besoin.
+**Remarque:** Les modifications mineures, comme la correction d'une Typo,
+peuvent faire l'objet d'un ticket ouvert, mais n'en ont pas besoin.
 
-Si vous voulez aussi corriger le bug, soumettez une [pull request](#pull-requests) et référencez le ticket.
+Si vous voulez aussi corriger le bug, soumettez une
+[pull request](#pull-requests) et référencez le ticket.
 
 <br/>
 
@@ -44,15 +57,22 @@ Si vous voulez aussi corriger le bug, soumettez une [pull request](#pull-request
 
 <br/>
 
-Cette section vous guide pour suggérer une nouvelle fonctionnalité ou ajouter un nouveau sujet au wiki. Le respect de ces directives permet aux mainteneurs et à la communauté de collaborer pour trouver la meilleure façon de faire avancer votre suggestion.
+Cette section vous guide pour suggérer une nouvelle fonctionnalité ou ajouter un
+nouveau sujet au wiki. Le respect de ces directives permet aux mainteneurs et à
+la communauté de collaborer pour trouver la meilleure façon de faire avancer
+votre suggestion.
 
 ### Avant de suggérer une nouvelle fonctionnalité
 
-**Assurez-vous que la fonctionnalité ou le sujet n'a pas déjà été suggéré.** en cherchant sur GitHub sous [**Issues**](https://github.com/ChrisBradford2/DevNotes/issues).
+**Assurez-vous que la fonctionnalité ou le sujet n'a pas déjà été suggéré.** en
+cherchant sur GitHub sous
+[**Issues**](https://github.com/ChrisBradford2/DevNotes/issues).
 
 ### Suggérer une nouvelle fonctionnalité ou un nouveau sujet
 
-Pour suggérer une nouvelle fonctionnalité/un nouveau sujet, [ouvrir un nouveau ticket](https://github.com/ChrisBradford2/DevNotes/issues/new/choose), en utilisant la suggestion template **Feature request**.
+Pour suggérer une nouvelle fonctionnalité/un nouveau sujet,
+[ouvrir un nouveau ticket](https://github.com/ChrisBradford2/DevNotes/issues/new/choose),
+en utilisant la suggestion template **Feature request**.
 
 <br/>
 
@@ -105,18 +125,26 @@ Si le mainteneur approuve le PR, il sera fusionné.
 ---
 
 ## Rédiger du contenu ✏️:
-   
+
 ### Contribuer au contenu du Wiki
 
 Ce document décrit comment contribuer et ajouter du contenu au wiki.
 
-Nous encourageons tous ceux qui ont une connaissance dans les modules étudiés à partager cette connaissance avec la communauté et à aider ainsi les élèves en difficulté à mieux comprendre et à faciliter l'intégration des nouveaux élèves.
+Nous encourageons tous ceux qui ont une connaissance dans les modules étudiés à
+partager cette connaissance avec la communauté et à aider ainsi les élèves en
+difficulté à mieux comprendre et à faciliter l'intégration des nouveaux élèves.
 
 Merci! ❤️
 
 #### Apprendre
 
-La section Apprendre vise à décrire la plupart des fonctions de DevNotes. Le contenu doit être expliqué de manière compréhensible pour les utilisateurs aléatoires normaux qui n'ont pas, ou juste une petite connaissance de DevNotes. Nous voulons accueillir les personnes intéressées et leur montrer le chemin pour comprendre DevNotes et être fasciné par lui. L'idéal serait de pouvoir fournir des liens vers des sources externes qui offrent un contenu plus détaillé à différents niveaux de complexité.
+La section Apprendre vise à décrire la plupart des fonctions de DevNotes. Le
+contenu doit être expliqué de manière compréhensible pour les utilisateurs
+aléatoires normaux qui n'ont pas, ou juste une petite connaissance de DevNotes.
+Nous voulons accueillir les personnes intéressées et leur montrer le chemin pour
+comprendre DevNotes et être fasciné par lui. L'idéal serait de pouvoir fournir
+des liens vers des sources externes qui offrent un contenu plus détaillé à
+différents niveaux de complexité.
 
 <!--#### Participate
 
@@ -130,17 +158,30 @@ The gateway for Developers. Introduces the core functionalities on a more techni
 
 #### Ajouter un cours
 
-Pour ajouter un cours au projet, vous devrez . Cela le rendra facile à utiliser et vous pourrez écrire du contenu avec les outils connus, comme dans un word ou un google doc. L'éditeur traduit le contenu dans un fichier **`markdown`** et crée une Pull Request pour ajouter ce contenu dans notre dépôt GitHub. Nous vérifions ces Pull Requests et approuvons l'ajout, ou nous vous contactons si nous avons des suggestions pour optimiser l'article ou demander des modifications.
+Pour ajouter un cours au projet, vous devrez . Cela le rendra facile à utiliser
+et vous pourrez écrire du contenu avec les outils connus, comme dans un word ou
+un google doc. L'éditeur traduit le contenu dans un fichier **`markdown`** et
+crée une Pull Request pour ajouter ce contenu dans notre dépôt GitHub. Nous
+vérifions ces Pull Requests et approuvons l'ajout, ou nous vous contactons si
+nous avons des suggestions pour optimiser l'article ou demander des
+modifications.
 
-Vous pouvez également créer du contenu directement dans GitHub en forkant la branche **`main`** et commencer à éditer les pages auxquelles vous souhaitez contribuer.
+Vous pouvez également créer du contenu directement dans GitHub en forkant la
+branche **`main`** et commencer à éditer les pages auxquelles vous souhaitez
+contribuer.
 
-Pour éditer un document, cliquez sur le crayon (éditer ce fichier) dans le coin supérieur droit lors de la consultation dans GitHub.
+Pour éditer un document, cliquez sur le crayon (éditer ce fichier) dans le coin
+supérieur droit lors de la consultation dans GitHub.
 
 L'éditeur de GitHub s'ouvrira alors, et vous pourrez modifier votre fichier.
 
-Toutes les pages sont thématisées et stylisées automatiquement et suivent un format standardisé dans tout le wiki.
+Toutes les pages sont thématisées et stylisées automatiquement et suivent un
+format standardisé dans tout le wiki.
 
-Le contenu de chaque page est précédé d'informations sur son contenu principal. Ces informations indiquent au wiki ce qu'il doit savoir sur la page pour l'ajouter au front-end au bon endroit. Ces informations n'ont pas besoin d'être modifiées :
+Le contenu de chaque page est précédé d'informations sur son contenu principal.
+Ces informations indiquent au wiki ce qu'il doit savoir sur la page pour
+l'ajouter au front-end au bon endroit. Ces informations n'ont pas besoin d'être
+modifiées :
 
 ```yml
 ---
@@ -151,17 +192,21 @@ slug: /my-custom-url
 ---
 ```
 
-`# Header 1` – ne doit être utilisé que pour le titre/en-tête de la page en utilisant un seul hachage
+`# Header 1` – ne doit être utilisé que pour le titre/en-tête de la page en
+utilisant un seul hachage
 
-`## Header 2` – doit être utilisé pour les principales sous-sections du sujet en utilisant un double hachage
+`## Header 2` – doit être utilisé pour les principales sous-sections du sujet en
+utilisant un double hachage
 
-`### Header 3` – doit être utilisé pour les sections internes de ces sous-sections en utilisant un triple hachage
+`### Header 3` – doit être utilisé pour les sections internes de ces
+sous-sections en utilisant un triple hachage
 
 ##### Contenu
 
 Tout le contenu de la page doit être écrit en texte standard.
 
-Un paragraphe peut être créé en laissant un double saut de ligne entre deux blocs de texte.
+Un paragraphe peut être créé en laissant un double saut de ligne entre deux
+blocs de texte.
 
 ##### Formatage
 
@@ -169,28 +214,35 @@ Utilisez un astérisque simple pour rendre un mot ou une phrase `*italique*`.
 
 Utilisez un double astérisque pour former un mot ou une phrase `**gras**`.
 
-Utilisez un astérisque triple pour rendre un mot ou une phrase `***gras et italique***`.
+Utilisez un astérisque triple pour rendre un mot ou une phrase
+`***gras et italique***`.
 
 Utilisez les doubles tilde pour `~~barrer~~` un mot ou une phrase.
 
 ##### Lien
 
-Pour ajouter un lien à une page, nous utilisons des crochets pour contenir le texte du lien, suivis de crochets ronds contenant l'adresse du lien :
+Pour ajouter un lien à une page, nous utilisons des crochets pour contenir le
+texte du lien, suivis de crochets ronds contenant l'adresse du lien :
+
 ```md
 [this is a link](https://www.website.com)
 ```
 
 ##### Images
 
-Pour ajouter une image à une page, nous devons d'abord télécharger la page dans le dossier image.
-Ensuite, sur notre page, nous pouvons ajouter l'image en utilisant la même méthode qu'un lien précédé d'un point d'exclamation :
+Pour ajouter une image à une page, nous devons d'abord télécharger la page dans
+le dossier image. Ensuite, sur notre page, nous pouvons ajouter l'image en
+utilisant la même méthode qu'un lien précédé d'un point d'exclamation :
+
 ```md
 ![image text](https://image.link/here.jpg)
 ```
 
 ##### Image Links
 
-Pour faire d'une image un lien, nous pouvons combiner les deux méthodes, en plaçant le lien dans la section texte du code de l'image :
+Pour faire d'une image un lien, nous pouvons combiner les deux méthodes, en
+plaçant le lien dans la section texte du code de l'image :
+
 ```md
 [![Here is an example image](https://example.com/image.jpg)](https://example.com)
 ```
@@ -200,21 +252,22 @@ Pour faire d'une image un lien, nous pouvons combiner les deux méthodes, en pla
 Pour créer des listes, nous utilisons deux méthodes différentes.
 
 ```md
--	Bullet point
--	lists
--	using a hyphen
+- Bullet point
+- lists
+- using a hyphen
 ```
 
 ```md
-1.	Numbered
-2.	Lists
-3.	Using numbers
+1. Numbered
+2. Lists
+3. Using numbers
 ```
 
 ##### Quotes
 
 ```md
-   >To add a quoted or embedded text, we use the greater than symbol at the start of the section. To close off a quote we create a new paragraph.
+> To add a quoted or embedded text, we use the greater than symbol at the start
+> of the section. To close off a quote we create a new paragraph.
 ```
 
 ##### Adding Code
@@ -222,7 +275,7 @@ Pour créer des listes, nous utilisons deux méthodes différentes.
 Il existe deux types de saisie de code:
 
 1.  `` `inline code` ``, qui est entouré de simples backticks.
-2.  Ou les *code blocs* avec des triples backticks :
+2.  Ou les _code blocs_ avec des triples backticks :
 
 ````
 ```
@@ -230,82 +283,110 @@ Des blocs de code peuvent être ajoutés dans la page si nécessaire soit pour d
 ```
 ````
 
-
 ##### Line Divider
-Nous pouvons ajouter un séparateur de ligne pour séparer la page en ajoutant 3 tirets ou 3 astérisques.
+
+Nous pouvons ajouter un séparateur de ligne pour séparer la page en ajoutant 3
+tirets ou 3 astérisques.
+
 ```md
 ---
 
-***
+---
 ```
 
 ---
 
 ##### Soumettre votre contribution
 
-Une fois que vous avez terminé, votre contribution se trouve en bas de la page d'édition, dans la section de validation des modifications.
+Une fois que vous avez terminé, votre contribution se trouve en bas de la page
+d'édition, dans la section de validation des modifications.
 
 - Dans le titre, ajoutez le titre de la page que vous avez modifiée.
 - Nom de la page éditée.md
-- Dans la description, expliquez brièvement vos modifications, qu'il s'agisse de la correction d'un fait ou d'une faute de frappe, de la création d'une page complète, de son formatage, etc.
+- Dans la description, expliquez brièvement vos modifications, qu'il s'agisse de
+  la correction d'un fait ou d'une faute de frappe, de la création d'une page
+  complète, de son formatage, etc.
 - Sélectionnez créer une nouvelle branche
 - Nommez la branche d'après votre nom - pagename-edit
 - Cliquez sur commettre les changements
-- Cela ouvrira une demande de retrait, où vous pourrez remplir les informations de base pour vos mises à jour.
+- Cela ouvrira une demande de retrait, où vous pourrez remplir les informations
+  de base pour vos mises à jour.
 - Cliquez ensuite sur le bouton `create pull request`.
 
 ##### Travailler avec le Project Board
 
-Afin de garder le projet DevNotes organisé et d'aider tout le monde à comprendre l'état actuel du travail en cours, nous avons décidé d'utiliser un tableau de projet de style Kanban. Tout ce qui concerne la création de contenu doit être représenté dans ce tableau. Vous le trouverez sous l'onglet projets :
+Afin de garder le projet DevNotes organisé et d'aider tout le monde à comprendre
+l'état actuel du travail en cours, nous avons décidé d'utiliser un tableau de
+projet de style Kanban. Tout ce qui concerne la création de contenu doit être
+représenté dans ce tableau. Vous le trouverez sous l'onglet projets :
 
 https://github.com/ChrisBradford2/DevNotes/projects/3
 
 ![image](../../static/img/contrib/projet_board.png)
 
-Dans le tableau, nous avons créé 5 champs qui représentent le cycle de vie d'une page de contenu jusqu'à son achèvement.
-**To do**
+Dans le tableau, nous avons créé 5 champs qui représentent le cycle de vie d'une
+page de contenu jusqu'à son achèvement. **To do**
 
-Voici toutes les pages sur lesquelles vous n'avez pas encore commencé à travailler. Choisissez ici la carte de la page de contenu que vous souhaitez créer et passez à l'étape suivante en la faisant glisser dans le dossier de la page.
+Voici toutes les pages sur lesquelles vous n'avez pas encore commencé à
+travailler. Choisissez ici la carte de la page de contenu que vous souhaitez
+créer et passez à l'étape suivante en la faisant glisser dans le dossier de la
+page.
 
 **In progress**
 
-Contenu sur lequel quelqu'un est en train de travailler. Tant que vous travaillez et modifiez une page, laissez la carte ici.
+Contenu sur lequel quelqu'un est en train de travailler. Tant que vous
+travaillez et modifiez une page, laissez la carte ici.
 
 **Ready for Review**
 
-Dès que vous souhaitez recevoir une review de votre travail, déplacez la carte ici et ouvrez une pull request.
+Dès que vous souhaitez recevoir une review de votre travail, déplacez la carte
+ici et ouvrez une pull request.
 
 **Reviewer approved**
 
-Le contenu écrit est peut-être terminé, mais les graphiques, les images ou les liens vers des contenus extérieurs ou d'autres pages doivent peut-être encore être corrigés ou complétés.
+Le contenu écrit est peut-être terminé, mais les graphiques, les images ou les
+liens vers des contenus extérieurs ou d'autres pages doivent peut-être encore
+être corrigés ou complétés.
 
 **Done**
 
-Les pages de contenu ont été finalisées et sont prêtes à être publiées, Pull Request fermée. La page peut être ajoutée "telle quelle" dans la version finale du Wiki.
+Les pages de contenu ont été finalisées et sont prêtes à être publiées, Pull
+Request fermée. La page peut être ajoutée "telle quelle" dans la version finale
+du Wiki.
 
 ![image](https://user-images.githubusercontent.com/77154511/126052466-d110127f-965a-456c-bfac-d2d52a63d043.png)
 
 **Convert to issue**
 
-Chaque carte du Kanban peut être convertie en un ticket ouvert. Vous devriez utiliser cette fonction. Nous pouvons tous travailler beaucoup mieux si nous voyons quels tickets sont actuellement ouverts et lesquels sont fermés, et cela nous aide à rester organisés.
+Chaque carte du Kanban peut être convertie en un ticket ouvert. Vous devriez
+utiliser cette fonction. Nous pouvons tous travailler beaucoup mieux si nous
+voyons quels tickets sont actuellement ouverts et lesquels sont fermés, et cela
+nous aide à rester organisés.
 
 ![image](https://user-images.githubusercontent.com/77154511/126052529-ddc9f83c-9c53-46eb-9e8c-1033d42fab14.png)
 
 ##### Utilisation des tickets pour organiser le déroulement du projet
 
-Une fois que vous avez converti votre carte du tableau de bord du projet en un problème ouvert, vous pouvez ajouter certains attributs au problème qui structureront notre flux de travail.
+Une fois que vous avez converti votre carte du tableau de bord du projet en un
+problème ouvert, vous pouvez ajouter certains attributs au problème qui
+structureront notre flux de travail.
 
 ![image](https://user-images.githubusercontent.com/77154511/126052539-960c80b6-9fb6-40c7-ad01-72ec068d176b.png)
 
 **Assignees**
 
-You can assign an issue to yourself if you are working alone on your content, or to another member of the Team that you think can help or needs to have a look at that issue
+You can assign an issue to yourself if you are working alone on your content, or
+to another member of the Team that you think can help or needs to have a look at
+that issue
 
 ![image](https://user-images.githubusercontent.com/77154511/126052580-107f62db-0ecf-44be-b886-1ca038d3114a.png)
 
 **Labels**
 
-Les étiquettes sont un excellent outil pour visualiser un ticket. Elles apparaissent dans la vue d'ensemble principale des problèmes et indiquent directement l'objet du problème. Pour le contenu, nous utilisons l'étiquette "Cours".
+Les étiquettes sont un excellent outil pour visualiser un ticket. Elles
+apparaissent dans la vue d'ensemble principale des problèmes et indiquent
+directement l'objet du problème. Pour le contenu, nous utilisons l'étiquette
+"Cours".
 
 ![image](https://user-images.githubusercontent.com/77154511/126052615-f810b8b5-93b7-49e2-bc8e-eb4217560243.png)-->
 
@@ -317,16 +398,20 @@ Vous pouvez ici affecter un ticket à un projet.
 
 **Milestones**
 
-Les Milestones peuvent vous aider à voir si des progrès importants ont été réalisés. Vous êtes libre d'ajouter des jalons que vous jugez importants.
+Les Milestones peuvent vous aider à voir si des progrès importants ont été
+réalisés. Vous êtes libre d'ajouter des jalons que vous jugez importants.
 
 ![image](https://user-images.githubusercontent.com/77154511/126052659-eeaf2e15-157c-4904-b665-61aee4bb51eb.png)
 
 **Linked Pull Requests**
 
-Dès que vous avez ouvert une pull request pour le contenu, liez le ticket à cette pull request. Lorsque la pull request sera fusionnée ou fermée, ce ticket sera automatiquement fermée.
+Dès que vous avez ouvert une pull request pour le contenu, liez le ticket à
+cette pull request. Lorsque la pull request sera fusionnée ou fermée, ce ticket
+sera automatiquement fermée.
 
 ![image](https://user-images.githubusercontent.com/77154511/126052695-7b28f4c5-da09-4492-86e0-c5e4009862b0.png)
 
 ## Félicitations ! Vous avez terminé !
 
-Bonne contribution et si vous avez des questions ou des idées, envoyez-nous un ticket !
+Bonne contribution et si vous avez des questions ou des idées, envoyez-nous un
+ticket !
