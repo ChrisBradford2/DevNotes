@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Voir les cours 📋
           </Link>
         </div>
       </div>
@@ -29,8 +29,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Bienvenue sur ${siteConfig.title}`}
+      description="DevNotes est une plateforme web faisant office de Wiki pour le bachelor 3 INGLOG du Campus Paris Ynov permettant de visualiser les notes de cours des étudiants.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
