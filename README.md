@@ -2,6 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Commits][commit-shield]][commit-url]
 [![Build][build-shield]][build-url]
 [![Licence][licence-shield]][licence-url]
 [![Website][website-shield]][website-url]
@@ -137,3 +138,5 @@ Have a look at [CONTRIBUTING](https://github.com/ChrisBradford2/DevNotes/blob/de
 [milestones1-url]: https://github.com/ChrisBradford2/DevNotes/milestone/1
 [milestones2-shield]: https://img.shields.io/github/milestones/progress-percent/ChrisBradford2/DevNotes/2?style=for-the-badge
 [milestones2-url]: https://github.com/ChrisBradford2/DevNotes/milestone/2
+[commit-shield]: https://img.shields.io/github/commit-activity/m/ChrisBradford2/DevNotes?style=for-the-badge
+[commit-url]: https://github.com/ChrisBradford2/DevNotes/commits/
