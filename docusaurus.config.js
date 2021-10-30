@@ -45,13 +45,13 @@ const config = {
           lastVersion: 'current',
           onlyIncludeVersions: ['current'],
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/ChrisBradford2/DevNotes/blob/dev/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/ChrisBradford2/DevNotes/blob/dev/blog/',
         },
         /*contrib: {
           path: 'contrib',
