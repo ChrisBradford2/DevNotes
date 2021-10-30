@@ -1,6 +1,6 @@
 ---
 id: lintegration-et-la-livraison-continues-avec-la-demarche-devops
-title: L'intégration et la livraison continues avec la démarche DevOp
+title: L'intégration et la livraison continues avec la démarche DevOps
 description: My document description
 slug: /lintegration-et-la-livraison-continues-avec-la-demarche-devops
 ---
