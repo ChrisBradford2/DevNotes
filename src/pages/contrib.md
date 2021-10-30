@@ -290,7 +290,6 @@ tirets ou 3 astérisques.
 
 ```md
 ---
-
 ---
 ```
 
