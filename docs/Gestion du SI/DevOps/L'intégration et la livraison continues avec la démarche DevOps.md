@@ -716,7 +716,7 @@ Quelle est la phrase affichée lors de l'étape de déploiement ?
 
 <details>
     <summary>Voir la réponse</summary>
-    Something small enough to escape casual notice.
+    Que la force soit avec toi !
 </details>
 
 ---
