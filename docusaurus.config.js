@@ -20,6 +20,7 @@ const config = {
   organizationName: 'ChrisBradford2', // Usually your GitHub org/user name.
   projectName: 'DevNotes', // Usually your repo name.
   noIndex: true, // Par défaut, `false`
+  trailingSlash: true,
 
   /*plugins: [
     [
