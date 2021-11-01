@@ -135,7 +135,7 @@ const config = {
             items: [
               {
                 label: 'Ouvrir un ticket',
-                href: 'https://github.com/ChrisBradford2/DevNotes/issues/new',
+                href: 'https://github.com/ChrisBradford2/DevNotes/issues/new/choose',
               },
               {
                 label: 'MIT licensed',
