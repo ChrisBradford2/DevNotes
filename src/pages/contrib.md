@@ -6,6 +6,15 @@ Nous encourageons toute personnes de la promo à contribuer.
 
 Merci ! ❤️
 
+## Avant propos
+
+_Cette page est tirée d'une autre page Contrib qui à été traduite en français et réadaptée pour ce projet. Il se peut que certains éléments soient au mieux incohérents, au pire incompréhensibles. Si vous avez un doute sur comment contribuer ou tout autre questions, nous vous invitons à nous contacter :_
+- Sur **Discord** :
+  - The Senate#2279
+  - NyftHeart#4154
+- Sur [**GitHub Discussions**](https://github.com/ChrisBradford2/DevNotes/discussions) :
+- Par mail : [devnotes@convergence-of-paprika.com](mailto:devnotes@convergence-of-paprika.com)
+
 ## Moyens de contributions 🔍
 
 Pour contribuer au wiki des **Bachelor 3 INGLOG**, vous pouvez :
