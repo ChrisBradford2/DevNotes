@@ -121,12 +121,12 @@ const config = {
                 href: 'https://github.com/ChrisBradford2/DevNotes/discussions',
               },
               {
-                label: 'Discord',
+                label: 'Discord (à venir)',
                 href: 'https://discord.gg/',
               },
               {
                 label: 'Twitter (à venir)',
-                href: '/',
+                href: 'https://twitter.com/',
               },
             ],
           },
