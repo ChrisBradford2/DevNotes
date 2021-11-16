@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevnotes=self.webpackChunkdevnotes||[]).push([[62],{8074:function(e){e.exports=JSON.parse('{"allTagsPath":"/DevNotes/blog/tags","slug":"/DevNotes/blog/tags/devnotes","name":"devnotes","count":1,"permalink":"/DevNotes/blog/tags/devnotes"}')}}]);

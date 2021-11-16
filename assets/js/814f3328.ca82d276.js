@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevnotes=self.webpackChunkdevnotes||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"B\xe9ta Lanc\xe9e !","permalink":"/DevNotes/blog/beta_lanc\xe9e"},{"title":"Introducing DevNotes","permalink":"/DevNotes/blog/introducing-docusaurus"}]}')}}]);

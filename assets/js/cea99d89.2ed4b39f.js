@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevnotes=self.webpackChunkdevnotes||[]).push([[61],{602:function(e){e.exports=JSON.parse('{"allTagsPath":"/DevNotes/blog/tags","slug":"/DevNotes/blog/tags/documentation","name":"documentation","count":1,"permalink":"/DevNotes/blog/tags/documentation"}')}}]);
